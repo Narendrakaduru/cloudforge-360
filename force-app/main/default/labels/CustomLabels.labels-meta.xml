@@ -8,4 +8,12 @@
         <shortDescription>CloudForge Promotion Test</shortDescription>
         <value>Successfully promoted from CFDEV to CFINT</value>
     </labels>
+    <labels>
+        <fullName>CloudForge_Success_Message</fullName>
+        <categories>UI</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CloudForge Success Message</shortDescription>
+        <value>Operation completed successfully.</value>
+    </labels>
 </CustomLabels>
